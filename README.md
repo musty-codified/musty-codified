@@ -2,7 +2,7 @@
 - 👀 I’m really interested in computing systems and AI.
 - 🌱 I’m currently learning Java/Springboot for backend technologies and React for front end.
 - 💞️ I’m looking to collaborate on backend and front end projects.
-- 📫 You can reach me on linkedin @ Mustapha Musa.
+- 📫 You can reach me on linkedin [@ Mustapha Musa](https://www.linkedin.com/in/mustapha-musa/).
 
 <!---
 musty-codified/musty-codified is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
