@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @musty-codified.
 - 👀 I’m really interested in computing systems and AI.
-- 🌱 I’m currently learning Java/Springboot for backend technologies and React for front end.
+- 🌱 I’m currently learning Java/Springboot for backend web development and React for front end.
 - 💞️ I’m looking to collaborate on backend and front end projects.
 - 📫 You can reach me on linkedin [@ Mustapha Musa](https://www.linkedin.com/in/mustapha-musa/).
 
