@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @musty-codified.
-- 👀 I’m really interested in computing systems and AI.
-- 🌱 I’m currently learning Java/Springboot for backend web development and React for front end.
-- 💞️ I’m looking to collaborate on backend and front end projects.
+- 👀 And I’m very interested in computing systems and AI.
+- 🌱 I’m a software developer with a passion for developing high-quality products and solutions.
+- 💞️ I’m looking to collaborate on projects and learn new technologies.
 - 📫 You can reach me on linkedin [@ Mustapha Musa](https://www.linkedin.com/in/mustapha-musa/).
 
 <!---
