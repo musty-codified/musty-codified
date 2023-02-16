@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @musty-codified.
 - 👀 And I’m very interested in computing systems and AI.
-- 🌱 I’m a software developer with a focus on Backend technologies like Java, and its related frameworks.
+- 🌱 I’m a software developer with a focus on backend technologies such as Java, Spring, and its related frameworks.
 - 💞️ I’m looking to collaborate on projects and learn new technologies.
 - 📫 You can reach me on linkedin [@ Mustapha Musa](https://www.linkedin.com/in/mustapha-musa/).
 
