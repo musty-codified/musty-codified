@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @musty-codified.
-- 👀 I'm a software developer with extensive experience in web application development.
-- 💞️ I’m seeking new opportunities to leverage my skill sets while I gain invaluable industry experience. I am also open to collaboration and code reviews.
+- 👀 I'm a professional software developer whose experience has span several years in the industry, working on both small and wide scale projects.
+- 💞️ I’m passionate about good code and putting what I’d learned to great use. I work primarily with Java and ReactJs. 
 - 📫 Feel free to connect with me on linkedin [@ Mustapha Musa](https://www.linkedin.com/in/mustapha-musa/).
 
 <!---
